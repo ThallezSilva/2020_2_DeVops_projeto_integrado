@@ -1,2 +1,2 @@
-# 2020_2_pojeto_integrado
+# 2020_2_projeto_integrado
 Thalita Ribeiro Vicente RA1902907
